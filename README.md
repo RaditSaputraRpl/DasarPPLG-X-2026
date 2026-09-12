@@ -1,22 +1,22 @@
-# Hi there, saya Radit Saputra 👋
+# Hi there, I'm Radit Saputra 👋
 
-### Siswa Kelas X PPLG - SMK Muhammadiyah 3 Tangerang Selatan
+### Grade X PPLG Student - SMK Muhammadiyah 3 Tangerang Selatan
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kelas-X%20PPLG-blue?style=flat-square" alt="Kelas"/>
-  <img src="https://img.shields.io/badge/Sekolah-SMK%20Muhammadiyah%203%20Tangsel-brightgreen?style=flat-square" alt="Sekolah"/>
+  <img src="https://img.shields.io/badge/Grade-X%20PPLG-blue?style=flat-square" alt="Grade"/>
+  <img src="https://img.shields.io/badge/School-SMK%20Muhammadiyah%203%20Tangsel-brightgreen?style=flat-square" alt="School"/>
 </p>
 
 ---
 
-## 👨‍💻 Tentang Saya
+## 👨‍💻 About Me
 
-Halo! Saya **Radit Saputra**, siswa kelas **X PPLG (Pengembangan Perangkat Lunak dan Gim)** di **SMK Muhammadiyah 3 Tangerang Selatan**. Saya sedang belajar dan mengembangkan kemampuan di bidang pengembangan perangkat lunak, mulai dari pemrograman dasar hingga pembuatan aplikasi dan website.
+Hello! I'm **Radit Saputra**, a **Grade X PPLG (Software and Game Development)** student at **SMK Muhammadiyah 3 Tangerang Selatan**. I'm currently learning and building my skills in software development, from basic programming to building applications and websites.
 
-- 🔭 Saat ini sedang belajar: Dasar-dasar pemrograman & pengembangan web
-- 🌱 Ingin memperdalam: Pengembangan aplikasi dan game
-- 💬 Bisa diajak diskusi tentang: Coding, teknologi, dan dunia IT
-- 📫 Cara menghubungi saya: [tubist003@gmail.com](mailto:tubist003@gmail.com)
+- 🔭 Currently learning: Programming fundamentals & web development
+- 🌱 Looking to deepen my knowledge in: App and game development
+- 💬 Happy to talk about: Coding, technology, and IT in general
+- 📫 How to reach me: [tubist003@gmail.com](mailto:tubist003@gmail.com)
 
 ---
 
@@ -29,7 +29,7 @@ Halo! Saya **Radit Saputra**, siswa kelas **X PPLG (Pengembangan Perangkat Lunak
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-> *Catatan: sesuaikan badge di atas dengan bahasa pemrograman yang benar-benar sedang kamu pelajari.*
+> *Note: update the badges above to match the programming languages you're actually learning.*
 
 ---
 
@@ -41,7 +41,7 @@ Halo! Saya **Radit Saputra**, siswa kelas **X PPLG (Pengembangan Perangkat Lunak
 
 ---
 
-## 🌐 Kontak
+## 🌐 Contact
 
 <p align="center">
   <a href="mailto:tubist003@gmail.com">
@@ -55,5 +55,5 @@ Halo! Saya **Radit Saputra**, siswa kelas **X PPLG (Pengembangan Perangkat Lunak
 ---
 
 <p align="center">
-  ⭐️ Terima kasih sudah mampir di profil saya!
+  ⭐️ Thanks for stopping by my profile!
 </p>
